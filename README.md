@@ -12,3 +12,7 @@ _Important:_ Please use python environments and add your reasoning as comments i
 ## Instructions
 
 Fork this repo, add your code, open an MR before the deadline!
+
+To keep it simple, add a new folder named after your team and commit code and any additional materials.
+
+Happy hacking!
