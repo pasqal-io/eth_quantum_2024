@@ -1,18 +1,18 @@
-# ETH Zurich Quantum Hackathon 2024
+# ETH Zürich Quantum Hackathon 2024
 
-## Pasqal Assignment
+## Pasqal Challenge
 
-Welcome to the ETH Zurich Quantum Hackathon 2024. Our assignments are on solving differential equations with Differentiable Quantum Circuits. 
+Welcome to the ETH Zürich Quantum Hackathon 2024. Our Challenge is about solving differential equations with Differentiable Quantum Circuits.
 
-You can go over the example tutorial here: https://github.com/pasqal-io/qadence/blob/main/docs/tutorials/qml/dqc_1d.md
+The Assignment is available [here](https://github.com/pasqal-io/eth_quantum_2024/blob/main/PASQAL_Challenge.pdf): please find there the tasks, relevant literature, an example tutorial and useful links to Qadence.
 
-_Important:_ Please use python environments and add your reasoning as comments in your code.
+If you like Qadence, ⭐ it on [Github](https://github.com/pasqal-io/qadence/)! 
 
+### Happy hacking!
 
-## Instructions
+## Info for Teams @ETH on May 3rd - 5th
 
-Fork this repo, add your code, open an MR before the deadline!
+Teams participating on-site to the Hackathon on May 3rd - 5th have the possibility to upload their projects on this repository. Fork this repo, add your code and open a merge request!
 
-To keep it simple, add a new folder named after your team and commit code and any additional materials.
+To keep it simple, add a new folder named after your Team and commit code and any additional materials.
 
-Happy hacking!
