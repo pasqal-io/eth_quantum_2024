@@ -6,7 +6,7 @@ Welcome to the ETH Zürich Quantum Hackathon 2024. Our Challenge is about solvin
 
 The Assignment is available [here](https://github.com/pasqal-io/eth_quantum_2024/blob/main/PASQAL_Challenge.pdf): please find there the tasks, relevant literature, an example tutorial and useful links to Qadence.
 
-If you like Qadence, ⭐ it on [Github](https://github.com/pasqal-io/qadence/)!
+If you like Qadence, ⭐ it on [GitHub](https://github.com/pasqal-io/qadence/)!
 
 ### Happy hacking!
 
@@ -22,4 +22,4 @@ Our repo works with forks :) You can find details on how to fork a repo [here](h
 
 ### Submission instructions over e-mail
 
-In case you are new to GitHub, we are also happy to get your submission over e-mail in a .zip format file with the name of your team. 
+In case you are new to GitHub, we are also happy to get your submission over e-mail in a .zip format file with the name of your team.
